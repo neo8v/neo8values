@@ -684,15 +684,6 @@ ideologies = [
         }
     },
     {
-        "name": "Велферизм",
-        "stats": {
-            "econ": 70,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 50
-        }
-    },
-    {
         "name": "Патернализм",
         "stats": {
             "econ": 60,
@@ -869,6 +860,42 @@ ideologies = [
             "econ": 70,
             "dipl": 70,
             "govt": 55,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Социал-демократия",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Социал-демократия",
+        "stats": {
+            "econ": 70,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Социал-демократия",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Социал-демократия",
+        "stats": {
+            "econ": 70,
+            "dipl": 70,
+            "govt": 50,
             "scty": 80
         }
     },
