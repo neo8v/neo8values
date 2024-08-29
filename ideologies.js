@@ -1,14 +1,5 @@
 ideologies = [
     {
-        "name": "Коммунизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 100
-        }
-    },
-    {
         "name": "Анархо-коммунизм",
         "stats": {
             "econ": 100,
@@ -67,17 +58,8 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 50,
-            "govt": 80,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Троцкизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 30,
-            "scty": 80
+            "govt": 70,
+            "scty": 100
         }
     },
     {
@@ -85,7 +67,7 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 70,
-            "govt": 45,
+            "govt": 40,
             "scty": 100
         }
     },
@@ -117,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ленинизм",
+        "name": "Большевизм",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -126,9 +108,18 @@ ideologies = [
         }
     },
     {
+        "name": "Троцкизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 80,
+            "govt": 20,
+            "scty": 80
+        }
+    },
+    {
         "name": "Марксизм-ленинизм",
         "stats": {
-            "econ": 90,
+            "econ": 100,
             "dipl": 70,
             "govt": 20,
             "scty": 50
@@ -137,7 +128,7 @@ ideologies = [
     {
         "name": "Марксизм-ленинизм",
         "stats": {
-            "econ": 90,
+            "econ": 100,
             "dipl": 70,
             "govt": 20,
             "scty": 80
@@ -146,7 +137,7 @@ ideologies = [
     {
         "name": "Марксизм-ленинизм",
         "stats": {
-            "econ": 90,
+            "econ": 100,
             "dipl": 70,
             "govt": 0,
             "scty": 50
@@ -155,7 +146,7 @@ ideologies = [
     {
         "name": "Марксизм-ленинизм",
         "stats": {
-            "econ": 90,
+            "econ": 100,
             "dipl": 70,
             "govt": 0,
             "scty": 80
@@ -164,7 +155,7 @@ ideologies = [
     {
         "name": "Развитой социализм",
         "stats": {
-            "econ": 90,
+            "econ": 100,
             "dipl": 60,
             "govt": 20,
             "scty": 30
@@ -173,7 +164,7 @@ ideologies = [
     {
         "name": "Развитой социализм",
         "stats": {
-            "econ": 90,
+            "econ": 100,
             "dipl": 60,
             "govt": 0,
             "scty": 30
@@ -237,9 +228,9 @@ ideologies = [
         "name": "Казарменный коммунизм",
         "stats": {
             "econ": 100,
-            "dipl": 80,
+            "dipl": 70,
             "govt": 0,
-            "scty": 80
+            "scty": 100
         }
     },
     {
@@ -255,7 +246,7 @@ ideologies = [
         "name": "Либертарный муниципализм",
         "stats": {
             "econ": 100,
-            "dipl": 70,
+            "dipl": 50,
             "govt": 90,
             "scty": 80
         } 
@@ -482,7 +473,7 @@ ideologies = [
             "econ": 80,
             "dipl": 50,
             "govt": 80,
-            "scty": 80
+            "scty": 50
         } 
     },
     {
@@ -1101,9 +1092,9 @@ ideologies = [
         "name": "Интегрализм",
         "stats": {
             "econ": 50,
-            "dipl": 20,
-            "govt": 17,
-            "scty": 0
+            "dipl": 50,
+            "govt": 20,
+            "scty": 10
         }
     },
     {
@@ -2003,7 +1994,7 @@ ideologies = [
             "econ": 50,
             "dipl": 50,
             "govt": 20,
-            "scty": 10
+            "scty": 20
         }
     },
     {
