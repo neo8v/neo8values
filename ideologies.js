@@ -129,7 +129,25 @@ ideologies = [
         "name": "Марксизм-ленинизм",
         "stats": {
             "econ": 100,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
             "dipl": 70,
+            "govt": 20,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
             "govt": 20,
             "scty": 80
         }
@@ -147,7 +165,25 @@ ideologies = [
         "name": "Марксизм-ленинизм",
         "stats": {
             "econ": 100,
+            "dipl": 50,
+            "govt": 0,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
             "dipl": 70,
+            "govt": 0,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
             "govt": 0,
             "scty": 80
         }
@@ -156,7 +192,7 @@ ideologies = [
         "name": "Развитой социализм",
         "stats": {
             "econ": 100,
-            "dipl": 60,
+            "dipl": 70,
             "govt": 20,
             "scty": 30
         }
@@ -165,7 +201,25 @@ ideologies = [
         "name": "Развитой социализм",
         "stats": {
             "econ": 100,
-            "dipl": 60,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Развитой социализм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 0,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Развитой социализм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
             "govt": 0,
             "scty": 30
         }
@@ -258,15 +312,6 @@ ideologies = [
             "dipl": 60,
             "govt": 100,
             "scty": 80
-        }
-    },
-    {
-        "name": "Коллективизм коллективного разума",
-        "stats": {
-            "econ": 105,
-            "dipl": 50,
-            "govt": -5,
-            "scty": 50
         }
     },
     {
