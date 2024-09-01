@@ -544,6 +544,15 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 50,
+            "govt": 30,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Рыночный социализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
         }
