@@ -297,20 +297,11 @@ ideologies = [
         }
     },
     {
-        "name": "Авторитарный социализм",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 15,
-            "scty": 50
-        }
-    },
-    {
         "name": "Тоталитарный социализм",
         "stats": {
             "econ": 80,
             "dipl": 50,
-            "govt": 5,
+            "govt": 0,
             "scty": 50
         }
     },
@@ -619,15 +610,6 @@ ideologies = [
             "govt": 100,
             "scty": 80
         } 
-    },
-    {
-        "name": "Ангсоц",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": -3,
-            "scty": 50
-        }
     },
     {
         "name": "Синдикализм",
@@ -1485,15 +1467,6 @@ ideologies = [
         }
     },
     {
-        "name": "Тоталитаризм",
-        "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 0,
-            "scty": 50
-        }
-    },
-    {
         "name": "Национал-анархизм",
         "stats": {
             "econ": 70,
@@ -1998,11 +1971,29 @@ ideologies = [
         }
     },
     {
-        "name": "Автократия",
+        "name": "Авторитаризм",
         "stats": {
             "econ": 50,
             "dipl": 50,
-            "govt": 10,
+            "govt": 15,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Тоталитаризм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 5,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Ангсоц",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": -3,
             "scty": 50
         }
     },
