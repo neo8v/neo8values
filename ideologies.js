@@ -1714,7 +1714,16 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 50,
-            "govt": 60,
+            "govt": 50,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Либеральный консерватизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 50,
             "scty": 30
         }
     },
@@ -1723,7 +1732,7 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 50,
-            "govt": 50,
+            "govt": 40,
             "scty": 30
         }
     },
@@ -1732,16 +1741,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 50,
-            "govt": 60,
-            "scty": 30
-        }
-    },
-    {
-        "name": "Либеральный консерватизм",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 50,
+            "govt": 40,
             "scty": 30
         }
     },
