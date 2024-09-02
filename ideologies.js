@@ -2343,9 +2343,18 @@ ideologies = [
         "name": "Теократия",
         "stats": {
             "econ": 50,
-            "dipl": 50,
+            "dipl": 40,
             "govt": 20,
-            "scty": 20
+            "scty": 10
+        }
+    },
+    {
+        "name": "Религиозный фундаментализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 10
         }
     },
     {
