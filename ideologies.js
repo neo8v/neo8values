@@ -2515,6 +2515,24 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 70,
+            "govt": 50,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Неоконсерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Неоконсерватизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 70,
             "govt": 40,
             "scty": 30
         }
@@ -2543,6 +2561,24 @@ ideologies = [
             "econ": 30,
             "dipl": 70,
             "govt": 30,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Неоконсерватизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 80,
+            "govt": 50,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Неоконсерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 80,
+            "govt": 50,
             "scty": 30
         }
     },
