@@ -666,15 +666,6 @@ ideologies = [
         }
     },
     {
-        "name": "Тотализм",
-        "stats": {
-            "econ": 75,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 60
-        }
-    },
-    {
         "name": "Левый национализм",
         "stats": {
             "econ": 80,
