@@ -417,9 +417,18 @@ ideologies = [
         "name": "Реакционный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 30,
-            "govt": 20,
+            "dipl": 40,
+            "govt": 30,
             "scty": 0
+        }
+    },
+    {
+        "name": "Жёлтый социализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 10
         }
     },
     {
@@ -1836,38 +1845,56 @@ ideologies = [
         }
     },
     {
-        "name": "Политическая реакция",
-        "stats": {
-            "econ": 40,
-            "dipl": 30,
-            "govt": 20,
-            "scty": 0
-        }
-    },
-    {
-        "name": "Политическая реакция",
+        "name": "Реакционизм",
         "stats": {
             "econ": 50,
-            "dipl": 30,
+            "dipl": 40,
+            "govt": 30,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Реакционизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 40,
+            "govt": 30,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Неореакционизм",
+        "stats": {
+            "econ": 0,
+            "dipl": 40,
+            "govt": 20,
+            "scty": 40
+        }
+    },
+    {
+        "name": "Неореакционизм",
+        "stats": {
+            "econ": 0,
+            "dipl": 40,
             "govt": 20,
             "scty": 0
         }
     },
     {
-        "name": "Неореакция",
+        "name": "Неореакционизм",
         "stats": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": 40,
             "govt": 50,
-            "scty": 0
+            "scty": 40
         }
     },
     {
-        "name": "Неореакция",
+        "name": "Неореакционизм",
         "stats": {
             "econ": 0,
-            "dipl": 20,
-            "govt": 20,
+            "dipl": 40,
+            "govt": 50,
             "scty": 0
         }
     },
@@ -3225,7 +3252,7 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 30,
+            "dipl": 40,
             "govt": 60,
             "scty": 0
         }
@@ -3243,7 +3270,7 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 30,
+            "dipl": 40,
             "govt": 50,
             "scty": 0
         }
@@ -3261,7 +3288,7 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 30,
+            "dipl": 40,
             "govt": 20,
             "scty": 0
         }
@@ -3404,8 +3431,8 @@ ideologies = [
     {
         "name": "Реакционное либертарианство",
         "stats": {
-            "econ": 20,
-            "dipl": 30,
+            "econ": 0,
+            "dipl": 40,
             "govt": 80,
             "scty": 0
         }
