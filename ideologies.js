@@ -2252,8 +2252,26 @@ ideologies = [
     {
         "name": "Авторитарный консерватизм",
         "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Авторитарный консерватизм",
+        "stats": {
             "econ": 30,
             "dipl": 40,
+            "govt": 20,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Авторитарный консерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 20,
             "govt": 20,
             "scty": 20
         }
@@ -2270,8 +2288,26 @@ ideologies = [
     {
         "name": "Тоталитарный консерватизм",
         "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Тоталитарный консерватизм",
+        "stats": {
             "econ": 30,
             "dipl": 40,
+            "govt": 0,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Тоталитарный консерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 20,
             "govt": 0,
             "scty": 20
         }
@@ -2281,7 +2317,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 20,
-            "govt": 20,
+            "govt": 30,
             "scty": 20
         }
     },
@@ -2290,7 +2326,7 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 20,
-            "govt": 20,
+            "govt": 30,
             "scty": 20
         }
     },
