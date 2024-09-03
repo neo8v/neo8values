@@ -2729,42 +2729,6 @@ ideologies = [
     {
         "name": "Неолиберализм",
         "stats": {
-            "econ": 20,
-            "dipl": 70,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 70,
-            "govt": 50,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 70,
-            "govt": 30,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
             "econ": 30,
             "dipl": 80,
             "govt": 60,
@@ -2938,42 +2902,6 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 80,
-            "govt": 30,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 70,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 70,
-            "govt": 50,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 70,
             "govt": 30,
             "scty": 80
         }
@@ -3528,6 +3456,24 @@ ideologies = [
         }
     },
     {
+        "name": "Прогрессивный капитализм",
+        "stats": {
+            "econ": 20,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Прогрессивный капитализм",
+        "stats": {
+            "econ": 20,
+            "dipl": 70,
+            "govt": 60,
+            "scty": 80
+        }
+    },
+    {
         "name": "Государственный либерализм",
         "stats": {
             "econ": 20,
@@ -3618,6 +3564,24 @@ ideologies = [
         }
     },
     {
+        "name": "Неолибертарианство",
+        "stats": {
+            "econ": 0,
+            "dipl": 70,
+            "govt": 80,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Неолибертарианство",
+        "stats": {
+            "econ": 0,
+            "dipl": 80,
+            "govt": 80,
+            "scty": 20
+        }
+    },
+    {
         "name": "Агоризм",
         "stats": {
             "econ": 10,
@@ -3636,21 +3600,21 @@ ideologies = [
         }
     },
     {
-        "name": "Объективизм",
-        "stats": {
-            "econ": 0,
-            "dipl": 50,
-            "govt": 85,
-            "scty": 20
-        }
-    },
-    {
         "name": "Минархизм",
         "stats": {
             "econ": 0,
             "dipl": 50,
             "govt": 90,
             "scty": 50
+        }
+    },
+    {
+        "name": "Объективизм",
+        "stats": {
+            "econ": 0,
+            "dipl": 50,
+            "govt": 90,
+            "scty": 30
         }
     },
     {
@@ -3669,15 +3633,6 @@ ideologies = [
             "dipl": 50,
             "govt": 50,
             "scty": 50
-        }
-    },
-    {
-        "name": "Розовый капитализм",
-        "stats": {
-            "econ": 0,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 80
         }
     },
     {
