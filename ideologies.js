@@ -228,7 +228,7 @@ ideologies = [
         "name": "Казарменный коммунизм",
         "stats": {
             "econ": 100,
-            "dipl": 70,
+            "dipl": 50,
             "govt": 0,
             "scty": 100
         }
