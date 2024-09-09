@@ -309,7 +309,7 @@ ideologies = [
         "name": "Консервативный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
             "scty": 20
         }
@@ -336,7 +336,7 @@ ideologies = [
         "name": "Консервативный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 20
         }
@@ -363,7 +363,7 @@ ideologies = [
         "name": "Консервативный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
             "scty": 20
         }
@@ -390,7 +390,7 @@ ideologies = [
         "name": "Реакционный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 0
         }
@@ -399,7 +399,7 @@ ideologies = [
         "name": "Реакционный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 0
         }
@@ -408,7 +408,7 @@ ideologies = [
         "name": "Реакционный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
             "scty": 0
         }
@@ -741,7 +741,7 @@ ideologies = [
         "name": "Патерналистский консерватизм",
         "stats": {
             "econ": 60,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 20
         }
@@ -759,7 +759,7 @@ ideologies = [
         "name": "Патерналистский консерватизм",
         "stats": {
             "econ": 70,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 20
         }
@@ -846,7 +846,7 @@ ideologies = [
         }
     },
     {
-        "name": "Радикализм",
+        "name": "Радикальный либерализм",
         "stats": {
             "econ": 70,
             "dipl": 50,
@@ -858,7 +858,7 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 70,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 40,
             "scty": 20
         }
@@ -867,7 +867,7 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 60,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 40,
             "scty": 20
         }
@@ -876,7 +876,7 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 50,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 40,
             "scty": 20
         }
@@ -885,7 +885,7 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 40,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 40,
             "scty": 20
         }
@@ -894,7 +894,7 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 30,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 40,
             "scty": 20
         }
@@ -1244,13 +1244,22 @@ ideologies = [
     {
         "name": "Интегрализм",
         "stats": {
-            "econ": 50,
+            "econ": 55,
             "dipl": 50,
             "govt": 20,
             "scty": 10
         }
     },
     {
+        "name": "Интегральный национализм",
+        "stats": {
+            "econ": 55,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 0
+        }
+    },
+    {
         "name": "Прогрессивизм",
         "stats": {
             "econ": 50,
@@ -1341,24 +1350,6 @@ ideologies = [
         }
     },
     {
-        "name": "Авторитарный прогрессивизм",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 20,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Авторитарный прогрессивизм",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 20,
-            "scty": 100
-        }
-    },
-    {
         "name": "Тоталитарный прогрессивизм",
         "stats": {
             "econ": 50,
@@ -1389,24 +1380,6 @@ ideologies = [
         "name": "Тоталитарный прогрессивизм",
         "stats": {
             "econ": 70,
-            "dipl": 50,
-            "govt": 0,
-            "scty": 100
-        }
-    },
-    {
-        "name": "Тоталитарный прогрессивизм",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 0,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Тоталитарный прогрессивизм",
-        "stats": {
-            "econ": 80,
             "dipl": 50,
             "govt": 0,
             "scty": 100
@@ -1419,15 +1392,6 @@ ideologies = [
             "dipl": 20,
             "govt": 30,
             "scty": 80
-        }
-    },
-    {
-        "name": "Национал-прогрессивизм",
-        "stats": {
-            "econ": 60,
-            "dipl": 20,
-            "govt": 30,
-            "scty": 70
         }
     },
     {
@@ -1848,7 +1812,7 @@ ideologies = [
         "name": "Реакционизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 0
         }
@@ -1857,7 +1821,7 @@ ideologies = [
         "name": "Реакционизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 0
         }
@@ -1866,7 +1830,7 @@ ideologies = [
         "name": "Реакционизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 0
         }
@@ -1875,7 +1839,7 @@ ideologies = [
         "name": "Реакционизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 0
         }
@@ -1884,7 +1848,7 @@ ideologies = [
         "name": "Реакционизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
             "scty": 0
         }
@@ -1893,7 +1857,7 @@ ideologies = [
         "name": "Реакционизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
             "scty": 0
         }
@@ -1902,7 +1866,7 @@ ideologies = [
         "name": "Неореакционизм",
         "stats": {
             "econ": 0,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 40
         }
@@ -1911,7 +1875,7 @@ ideologies = [
         "name": "Неореакционизм",
         "stats": {
             "econ": 0,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 0
         }
@@ -1920,7 +1884,7 @@ ideologies = [
         "name": "Неореакционизм",
         "stats": {
             "econ": 0,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
             "scty": 40
         }
@@ -1929,7 +1893,7 @@ ideologies = [
         "name": "Неореакционизм",
         "stats": {
             "econ": 0,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
             "scty": 0
         }
@@ -2235,7 +2199,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
             "scty": 20
         }
@@ -2244,7 +2208,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
             "scty": 20
         }
@@ -2253,7 +2217,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
             "scty": 10
         }
@@ -2262,7 +2226,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
             "scty": 10
         }
@@ -2271,7 +2235,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 20
         }
@@ -2280,7 +2244,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 20
         }
@@ -2289,7 +2253,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 10
         }
@@ -2298,7 +2262,7 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 10
         }
@@ -2307,7 +2271,7 @@ ideologies = [
         "name": "Авторитарный консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 20
         }
@@ -2316,7 +2280,7 @@ ideologies = [
         "name": "Авторитарный консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 20
         }
@@ -2325,7 +2289,7 @@ ideologies = [
         "name": "Тоталитарный консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
             "scty": 20
         }
@@ -2334,7 +2298,7 @@ ideologies = [
         "name": "Тоталитарный консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
             "scty": 20
         }
@@ -2397,7 +2361,7 @@ ideologies = [
         "name": "Анархо-консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 100,
             "scty": 20
         }
@@ -2406,7 +2370,7 @@ ideologies = [
         "name": "Анархо-консерватизм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 100,
             "scty": 20
         }
@@ -3459,7 +3423,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 70,
             "scty": 20
         }
@@ -3468,7 +3432,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 70,
             "scty": 20
         }
@@ -3477,7 +3441,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 60,
             "scty": 20
         }
@@ -3486,7 +3450,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 60,
             "scty": 20
         }
@@ -3495,7 +3459,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
             "scty": 20
         }
@@ -3504,7 +3468,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 30,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
             "scty": 20
         }
@@ -3513,7 +3477,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
             "scty": 20
         }
@@ -3522,7 +3486,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
             "scty": 20
         }
@@ -3531,7 +3495,7 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 60,
             "scty": 0
         }
@@ -3549,7 +3513,7 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
             "scty": 0
         }
@@ -3567,7 +3531,7 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 0
         }
@@ -3810,7 +3774,7 @@ ideologies = [
         "name": "Либертарианский консерватизм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 80,
             "scty": 20
         }
@@ -3846,7 +3810,7 @@ ideologies = [
         "name": "Реакционное либертарианство",
         "stats": {
             "econ": 0,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 80,
             "scty": 0
         }
