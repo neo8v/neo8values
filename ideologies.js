@@ -3883,7 +3883,16 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 50,
-            "govt": 95,
+            "govt": 100,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Полиархия",
+        "stats": {
+            "econ": 20,
+            "dipl": 100,
+            "govt": 100,
             "scty": 50
         }
     },
@@ -3948,6 +3957,15 @@ ideologies = [
             "dipl": 50,
             "govt": 105,
             "scty": 60
+        }
+    },
+    {
+        "name": "Волюнтаризм",
+        "stats": {
+            "econ": 10,
+            "dipl": 50,
+            "govt": 95,
+            "scty": 50
         }
     },
     {
