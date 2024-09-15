@@ -1244,16 +1244,16 @@ ideologies = [
     {
         "name": "Интегрализм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 50,
             "govt": 20,
-            "scty": 10
+            "scty": 0
         }
     },
     {
         "name": "Интегральный национализм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 20,
             "govt": 20,
             "scty": 0
