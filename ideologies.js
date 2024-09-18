@@ -185,7 +185,7 @@ ideologies = [
             "econ": 100,
             "dipl": 20,
             "govt": 20,
-            "scty": 20
+            "scty": 70
         }
     },
     {
@@ -194,7 +194,25 @@ ideologies = [
             "econ": 100,
             "dipl": 20,
             "govt": 20,
-            "scty": 70
+            "scty": 80
+        }
+    },
+    {
+        "name": "Национал-коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Национал-коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 20
         }
     },
     {
@@ -212,7 +230,7 @@ ideologies = [
             "econ": 100,
             "dipl": 20,
             "govt": 0,
-            "scty": 20
+            "scty": 70
         }
     },
     {
@@ -221,7 +239,43 @@ ideologies = [
             "econ": 100,
             "dipl": 20,
             "govt": 0,
-            "scty": 70
+            "scty": 80
+        }
+    },
+    {
+        "name": "Национал-коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Национал-коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Национал-большевизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 20,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Национал-большевизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 20
         }
     },
     {
@@ -582,15 +636,6 @@ ideologies = [
             "dipl": 50,
             "govt": 30,
             "scty": 80
-        }
-    },
-    {
-        "name": "Национал-большевизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 20
         }
     },
     {
