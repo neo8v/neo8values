@@ -864,42 +864,6 @@ ideologies = [
         }
     },
     {
-        "name": "Социал-либерализм",
-        "stats": {
-            "econ": 70,
-            "dipl": 50,
-            "govt": 60,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Социал-либерализм",
-        "stats": {
-            "econ": 70,
-            "dipl": 70,
-            "govt": 60,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Социал-либерализм",
-        "stats": {
-            "econ": 70,
-            "dipl": 50,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Социал-либерализм",
-        "stats": {
-            "econ": 70,
-            "dipl": 70,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
         "name": "Радикальный либерализм",
         "stats": {
             "econ": 70,
@@ -958,7 +922,7 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 50,
-            "govt": 55,
+            "govt": 60,
             "scty": 50
         }
     },
@@ -967,7 +931,7 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 70,
-            "govt": 55,
+            "govt": 60,
             "scty": 50
         }
     },
@@ -976,7 +940,7 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 50,
-            "govt": 55,
+            "govt": 60,
             "scty": 80
         }
     },
@@ -985,7 +949,7 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 70,
-            "govt": 55,
+            "govt": 60,
             "scty": 80
         }
     },
