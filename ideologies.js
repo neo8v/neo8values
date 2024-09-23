@@ -346,8 +346,26 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
+            "govt": 30,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Авторитарный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
+        }
+    },
+    {
+        "name": "Авторитарный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 80
         }
     },
     {
@@ -357,6 +375,15 @@ ideologies = [
             "dipl": 50,
             "govt": 0,
             "scty": 50
+        }
+    },
+    {
+        "name": "Тоталитарный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 0,
+            "scty": 80
         }
     },
     {
@@ -544,8 +571,26 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
             "govt": 40,
             "scty": 50
+        }
+    },
+    {
+        "name": "Социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 80
         }
     },
     {
@@ -555,6 +600,15 @@ ideologies = [
             "dipl": 50,
             "govt": 55,
             "scty": 100
+        }
+    },
+    {
+        "name": "Либеральный социализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 80
         }
     },
     {
