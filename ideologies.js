@@ -779,7 +779,16 @@ ideologies = [
             "econ": 75,
             "dipl": 20,
             "govt": 20,
-            "scty": 10
+            "scty": 20
+        }
+    },
+    {
+        "name": "Тотализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 20
         }
     },
     {
@@ -2216,10 +2225,10 @@ ideologies = [
     {
         "name": "Клерикальный фашизм",
         "stats": {
-            "econ": 60,
+            "econ": 55,
             "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 10
         }
     },
     {
@@ -2236,8 +2245,44 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 0,
-            "govt": 50,
+            "govt": 30,
             "scty": 60
+        }
+    },
+    {
+        "name": "Прогрессивный фашизм",
+        "stats": {
+            "econ": 55,
+            "dipl": 0,
+            "govt": 20,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Прогрессивный фашизм",
+        "stats": {
+            "econ": 55,
+            "dipl": 0,
+            "govt": 20,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Прогрессивный фашизм",
+        "stats": {
+            "econ": 55,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Прогрессивный фашизм",
+        "stats": {
+            "econ": 55,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 100
         }
     },
     {
@@ -2256,6 +2301,15 @@ ideologies = [
             "dipl": 20,
             "govt": 20,
             "scty": 0
+        }
+    },
+    {
+        "name": "Фалангизм",
+        "stats": {
+            "econ": 60,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 10
         }
     },
     {
@@ -2286,6 +2340,24 @@ ideologies = [
         }
     },
     {
+        "name": "Фашистский синдикализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Фашистский социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 20
+        }
+    },
+    {
         "name": "Ультранационализм",
         "stats": {
             "econ": 50,
@@ -2306,7 +2378,7 @@ ideologies = [
     {
         "name": "Неофашизм",
         "stats": {
-            "econ": 60,
+            "econ": 50,
             "dipl": 0,
             "govt": 10,
             "scty": 10
@@ -2315,7 +2387,7 @@ ideologies = [
     {
         "name": "Неонацизм",
         "stats": {
-            "econ": 50,
+            "econ": 40,
             "dipl": 0,
             "govt": 10,
             "scty": 10
