@@ -684,6 +684,24 @@ ideologies = [
         }
     },
     {
+        "name": "Либертарный рыночный социализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 50
+        } 
+    },
+    {
+        "name": "Либертарный рыночный социализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 80
+        }
+    },
+    {
         "name": "Фабианский социализм",
         "stats": {
             "econ": 75,
@@ -733,7 +751,7 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 50,
-            "govt": 80,
+            "govt": 70,
             "scty": 50
         }
     },
@@ -742,7 +760,7 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 70,
-            "govt": 80,
+            "govt": 70,
             "scty": 50
         }
     },
@@ -751,7 +769,7 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 50,
-            "govt": 80,
+            "govt": 70,
             "scty": 70
         }
     },
@@ -760,7 +778,7 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 70,
-            "govt": 80,
+            "govt": 70,
             "scty": 70
         }
     },
@@ -2310,6 +2328,15 @@ ideologies = [
             "dipl": 0,
             "govt": 10,
             "scty": 10
+        }
+    },
+    {
+        "name": "Корпоративизм",
+        "stats": {
+            "econ": 55,
+            "dipl": 50,
+            "govt": 30,
+            "scty": 50
         }
     },
     {
