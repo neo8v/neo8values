@@ -1363,6 +1363,15 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 50,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Прогрессивизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
             "govt": 60,
             "scty": 80
         }
@@ -1372,14 +1381,14 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 50,
-            "govt": 60,
+            "govt": 50,
             "scty": 80
         }
     },
     {
         "name": "Прогрессивизм",
         "stats": {
-            "econ": 80,
+            "econ": 70,
             "dipl": 50,
             "govt": 60,
             "scty": 80
@@ -2052,6 +2061,24 @@ ideologies = [
         }
     },
     {
+        "name": "Гражданское либертарианство",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Гражданское либертарианство",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 80
+        }
+    },
+    {
         "name": "Социальное либертарианство",
         "stats": {
             "econ": 50,
@@ -2094,42 +2121,6 @@ ideologies = [
             "dipl": 70,
             "govt": 80,
             "scty": 80
-        }
-    },
-    {
-        "name": "Либертарианство",
-        "stats": {
-            "econ": 10,
-            "dipl": 50,
-            "govt": 80,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Либертарианство",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 80,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Либертарианство",
-        "stats": {
-            "econ": 10,
-            "dipl": 50,
-            "govt": 80,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Либертарианство",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 80,
-            "scty": 70
         }
     },
     {
@@ -4101,6 +4092,42 @@ ideologies = [
             "dipl": 80,
             "govt": 0,
             "scty": 80
+        }
+    },
+    {
+        "name": "Либертарианство",
+        "stats": {
+            "econ": 10,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Либертарианство",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Либертарианство",
+        "stats": {
+            "econ": 10,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Либертарианство",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 70
         }
     },
     {
