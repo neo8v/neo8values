@@ -94,8 +94,8 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 70,
-            "govt": 60,
-            "scty": 100
+            "govt": 50,
+            "scty": 80
         }
     },
     {
@@ -168,6 +168,51 @@ ideologies = [
             "dipl": 50,
             "govt": 0,
             "scty": 30
+        }
+    },
+    {
+        "name": "Маоизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 0,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Левый коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 30,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Левый коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 40,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Коммунизм рабочих советов",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 55,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Коммунизм рабочих советов",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 70,
+            "scty": 80
         }
     },
     {
