@@ -2433,9 +2433,9 @@ ideologies = [
         "name": "Археофутуризм",
         "stats": {
             "econ": 40,
-            "dipl": 20,
-            "govt": 20,
-            "scty": 0
+            "dipl": 10,
+            "govt": 30,
+            "scty": 5
         }
     },
     {
@@ -2561,7 +2561,7 @@ ideologies = [
             "econ": 50,
             "dipl": 0,
             "govt": 20,
-            "scty": 0
+            "scty": 10
         }
     },
     {
@@ -2570,7 +2570,7 @@ ideologies = [
             "econ": 30,
             "dipl": 0,
             "govt": 20,
-            "scty": 0
+            "scty": 10
         }
     },
     {
@@ -2769,6 +2769,42 @@ ideologies = [
             "dipl": 50,
             "govt": 100,
             "scty": 20
+        }
+    },
+    {
+        "name": "Ультраконсерватизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Ультраконсерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Ультраконсерватизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Ультраконсерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
