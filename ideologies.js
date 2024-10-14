@@ -2882,9 +2882,18 @@ ideologies = [
     {
         "name": "Альтерглобализм",
         "stats": {
+            "econ": 70,
+            "dipl": 80,
+            "govt": 60,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Альтерглобализм",
+        "stats": {
             "econ": 80,
-            "dipl": 70,
-            "govt": 70,
+            "dipl": 80,
+            "govt": 60,
             "scty": 80
         }
     },
