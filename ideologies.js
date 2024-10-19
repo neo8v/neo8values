@@ -45,6 +45,15 @@ ideologies = [
         }
     },
     {
+        "name": "Автономизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 85,
+            "scty": 80
+        }
+    },
+    {
         "name": "Ситуационизм",
         "stats": {
             "econ": 100,
@@ -623,7 +632,7 @@ ideologies = [
     {
         "name": "Жёлтый социализм",
         "stats": {
-            "econ": 70,
+            "econ": 73,
             "dipl": 20,
             "govt": 20,
             "scty": 0
@@ -857,25 +866,25 @@ ideologies = [
     {
         "name": "Гильдейский социализм",
         "stats": {
-            "econ": 75,
+            "econ": 78,
             "dipl": 50,
-            "govt": 60,
-            "scty": 10
+            "govt": 55,
+            "scty": 40
         }
     },
     {
         "name": "Гильдейский социализм",
         "stats": {
-            "econ": 75,
+            "econ": 78,
             "dipl": 50,
             "govt": 80,
-            "scty": 10
+            "scty": 40
         }
     },
     {
         "name": "Синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 50,
             "govt": 70,
             "scty": 50
@@ -884,7 +893,7 @@ ideologies = [
     {
         "name": "Синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 70,
             "govt": 70,
             "scty": 50
@@ -893,7 +902,7 @@ ideologies = [
     {
         "name": "Синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 50,
             "govt": 70,
             "scty": 70
@@ -902,7 +911,7 @@ ideologies = [
     {
         "name": "Синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 70,
             "govt": 70,
             "scty": 70
@@ -911,7 +920,7 @@ ideologies = [
     {
         "name": "Анархо-синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 50,
             "govt": 100,
             "scty": 80
@@ -920,7 +929,7 @@ ideologies = [
     {
         "name": "Национал-синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 20,
             "govt": 20,
             "scty": 20
@@ -929,7 +938,7 @@ ideologies = [
     {
         "name": "Тотализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 20,
             "govt": 0,
             "scty": 20
@@ -1665,6 +1674,15 @@ ideologies = [
         }
     },
     {
+        "name": "Автархизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 85,
+            "scty": 50
+        }
+    },
+    {
         "name": "Национал-анархизм",
         "stats": {
             "econ": 70,
@@ -2034,6 +2052,15 @@ ideologies = [
         }
     },
     {
+        "name": "Коммунитаризм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 50
+        }
+    },
+    {
         "name": "Либеральный консерватизм",
         "stats": {
             "econ": 30,
@@ -2254,7 +2281,7 @@ ideologies = [
         "stats": {
             "econ": 55,
             "dipl": 50,
-            "govt": 105,
+            "govt": 102,
             "scty": 50
         }
     },
@@ -2504,7 +2531,7 @@ ideologies = [
     {
         "name": "Фашистский синдикализм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 0,
             "govt": 0,
             "scty": 20
@@ -2587,7 +2614,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 50,
-            "govt": 50,
+            "govt": 30,
             "scty": 10
         }
     },
@@ -2614,24 +2641,6 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 50,
-            "govt": 40,
-            "scty": 10
-        }
-    },
-    {
-        "name": "Консерватизм",
-        "stats": {
-            "econ": 30,
-            "dipl": 50,
-            "govt": 40,
-            "scty": 10
-        }
-    },
-    {
-        "name": "Консерватизм",
-        "stats": {
-            "econ": 50,
-            "dipl": 50,
             "govt": 30,
             "scty": 20
         }
@@ -2643,24 +2652,6 @@ ideologies = [
             "dipl": 50,
             "govt": 30,
             "scty": 20
-        }
-    },
-    {
-        "name": "Консерватизм",
-        "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 10
-        }
-    },
-    {
-        "name": "Консерватизм",
-        "stats": {
-            "econ": 30,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 10
         }
     },
     {
@@ -3633,6 +3624,15 @@ ideologies = [
             "dipl": 70,
             "govt": 30,
             "scty": 70
+        }
+    },
+    {
+        "name": "Ордолиберализм",
+        "stats": {
+            "econ": 40,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 40
         }
     },
     {
