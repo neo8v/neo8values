@@ -846,6 +846,15 @@ ideologies = [
         }
     },
     {
+        "name": "Рикардианский социализм",
+        "stats": {
+            "econ": 75,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 50
+        }
+    },
+    {
         "name": "Евразийство",
         "stats": {
             "econ": 80,
@@ -866,7 +875,7 @@ ideologies = [
     {
         "name": "Гильдейский социализм",
         "stats": {
-            "econ": 78,
+            "econ": 75,
             "dipl": 50,
             "govt": 55,
             "scty": 40
@@ -875,7 +884,7 @@ ideologies = [
     {
         "name": "Гильдейский социализм",
         "stats": {
-            "econ": 78,
+            "econ": 75,
             "dipl": 50,
             "govt": 80,
             "scty": 40
