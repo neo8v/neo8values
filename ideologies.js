@@ -1037,9 +1037,9 @@ ideologies = [
     {
         "name": "Дистрибутизм",
         "stats": {
-            "econ": 60,
+            "econ": 50,
             "dipl": 50,
-            "govt": 30,
+            "govt": 40,
             "scty": 10
         }
     },
