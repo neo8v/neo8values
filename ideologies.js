@@ -1037,9 +1037,45 @@ ideologies = [
     {
         "name": "Дистрибутизм",
         "stats": {
-            "econ": 70,
+            "econ": 60,
             "dipl": 50,
             "govt": 30,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Дистрибутизм",
+        "stats": {
+            "econ": 60,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Социальный дистрибутизм",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Социальный дистрибутизм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Правый дистрибутизм",
+        "stats": {
+            "econ": 40,
+            "dipl": 50,
+            "govt": 40,
             "scty": 10
         }
     },
@@ -1706,7 +1742,7 @@ ideologies = [
             "econ": 60,
             "dipl": 50,
             "govt": 100,
-            "scty": 35
+            "scty": 40
         }
     },
     {
