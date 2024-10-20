@@ -4628,9 +4628,9 @@ ideologies = [
     {
         "name": "Корпоратократия",
         "stats": {
-            "econ": 0,
+            "econ": 10,
             "dipl": 50,
-            "govt": 30,
+            "govt": 20,
             "scty": 50
         }
     },
