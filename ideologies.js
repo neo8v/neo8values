@@ -2417,7 +2417,7 @@ ideologies = [
             "econ": 50,
             "dipl": 0,
             "govt": 0,
-            "scty": 20
+            "scty": 10
         }
     },
     {
@@ -4442,7 +4442,7 @@ ideologies = [
             "econ": 50,
             "dipl": 80,
             "govt": 0,
-            "scty": 80
+            "scty": 60
         }
     },
     {
