@@ -3207,15 +3207,6 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 20,
-            "dipl": 60,
-            "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
             "dipl": 70,
             "govt": 70,
             "scty": 50
@@ -3252,15 +3243,6 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 20,
-            "dipl": 70,
-            "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
             "dipl": 80,
             "govt": 70,
             "scty": 50
@@ -3290,15 +3272,6 @@ ideologies = [
             "econ": 20,
             "dipl": 80,
             "govt": 40,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 80,
-            "govt": 30,
             "scty": 50
         }
     },
@@ -3343,15 +3316,6 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 60,
-            "govt": 30,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 60,
             "govt": 70,
             "scty": 80
         }
@@ -3380,15 +3344,6 @@ ideologies = [
             "econ": 20,
             "dipl": 60,
             "govt": 40,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 60,
-            "govt": 30,
             "scty": 80
         }
     },
@@ -3425,15 +3380,6 @@ ideologies = [
             "econ": 30,
             "dipl": 60,
             "govt": 40,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 60,
-            "govt": 30,
             "scty": 50
         }
     },
@@ -3477,15 +3423,6 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 30,
-            "dipl": 70,
-            "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
             "dipl": 80,
             "govt": 70,
             "scty": 50
@@ -3515,15 +3452,6 @@ ideologies = [
             "econ": 30,
             "dipl": 80,
             "govt": 40,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 80,
-            "govt": 30,
             "scty": 50
         }
     },
@@ -3568,15 +3496,6 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 60,
-            "govt": 30,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 60,
             "govt": 70,
             "scty": 80
         }
@@ -3605,15 +3524,6 @@ ideologies = [
             "econ": 30,
             "dipl": 60,
             "govt": 40,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 60,
-            "govt": 30,
             "scty": 80
         }
     },
@@ -3656,15 +3566,6 @@ ideologies = [
     {
         "name": "Неолиберализм",
         "stats": {
-            "econ": 20,
-            "dipl": 60,
-            "govt": 30,
-            "scty": 30
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
             "econ": 30,
             "dipl": 60,
             "govt": 70,
@@ -3695,15 +3596,6 @@ ideologies = [
             "econ": 30,
             "dipl": 60,
             "govt": 40,
-            "scty": 30
-        }
-    },
-    {
-        "name": "Неолиберализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 60,
-            "govt": 30,
             "scty": 30
         }
     },
@@ -3731,15 +3623,6 @@ ideologies = [
             "econ": 40,
             "dipl": 70,
             "govt": 40,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Третий путь (центризм)",
-        "stats": {
-            "econ": 40,
-            "dipl": 70,
-            "govt": 30,
             "scty": 50
         }
     },
@@ -3767,15 +3650,6 @@ ideologies = [
             "econ": 40,
             "dipl": 70,
             "govt": 40,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Третий путь (центризм)",
-        "stats": {
-            "econ": 40,
-            "dipl": 70,
-            "govt": 30,
             "scty": 70
         }
     },
