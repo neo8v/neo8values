@@ -129,7 +129,16 @@ ideologies = [
         "name": "Большевизм",
         "stats": {
             "econ": 100,
-            "dipl": 70,
+            "dipl": 75,
+            "govt": 0,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Троцкизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 80,
             "govt": 20,
             "scty": 100
         }
@@ -237,7 +246,7 @@ ideologies = [
         "name": "Маоизм",
         "stats": {
             "econ": 100,
-            "dipl": 70,
+            "dipl": 60,
             "govt": 0,
             "scty": 100
         }
