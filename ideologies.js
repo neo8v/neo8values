@@ -382,7 +382,25 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 0,
-            "govt": 20,
+            "govt": 10,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Национал-большевизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Национал-большевизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 10,
             "scty": 20
         }
     },
@@ -393,6 +411,24 @@ ideologies = [
             "dipl": 0,
             "govt": 0,
             "scty": 20
+        }
+    },
+    {
+        "name": "Национал-большевизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Национал-большевизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
