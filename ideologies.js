@@ -130,15 +130,6 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 70,
-            "govt": 0,
-            "scty": 100
-        }
-    },
-    {
-        "name": "Троцкизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 80,
             "govt": 20,
             "scty": 100
         }
@@ -149,7 +140,7 @@ ideologies = [
             "econ": 100,
             "dipl": 80,
             "govt": 20,
-            "scty": 80
+            "scty": 100
         }
     },
     {
@@ -176,7 +167,7 @@ ideologies = [
             "econ": 100,
             "dipl": 70,
             "govt": 20,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -185,7 +176,7 @@ ideologies = [
             "econ": 100,
             "dipl": 50,
             "govt": 20,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -212,7 +203,7 @@ ideologies = [
             "econ": 100,
             "dipl": 70,
             "govt": 0,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -221,7 +212,7 @@ ideologies = [
             "econ": 100,
             "dipl": 50,
             "govt": 0,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -2630,9 +2621,9 @@ ideologies = [
     {
         "name": "Фалангизм",
         "stats": {
-            "econ": 60,
+            "econ": 73,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 10
         }
     },
