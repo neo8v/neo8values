@@ -4061,7 +4061,7 @@ ideologies = [
     {
         "name": "Капитализм",
         "stats": {
-            "econ": 10,
+            "econ": 30,
             "dipl": 50,
             "govt": 50,
             "scty": 50
@@ -4079,7 +4079,7 @@ ideologies = [
     {
         "name": "Капитализм",
         "stats": {
-            "econ": 10,
+            "econ": 30,
             "dipl": 50,
             "govt": 40,
             "scty": 50
@@ -4331,7 +4331,7 @@ ideologies = [
     {
         "name": "Экономический либерализм",
         "stats": {
-            "econ": 30,
+            "econ": 10,
             "dipl": 50,
             "govt": 50,
             "scty": 50
@@ -4340,7 +4340,7 @@ ideologies = [
     {
         "name": "Экономический либерализм",
         "stats": {
-            "econ": 30,
+            "econ": 10,
             "dipl": 50,
             "govt": 40,
             "scty": 50
