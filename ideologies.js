@@ -3028,7 +3028,25 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 80,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Альтерглобализм",
+        "stats": {
+            "econ": 70,
+            "dipl": 80,
             "govt": 60,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Альтерглобализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 50,
             "scty": 80
         }
     },
@@ -3039,6 +3057,15 @@ ideologies = [
             "dipl": 80,
             "govt": 60,
             "scty": 80
+        }
+    },
+    {
+        "name": "Космополитизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 100,
+            "govt": 50,
+            "scty": 50
         }
     },
     {
