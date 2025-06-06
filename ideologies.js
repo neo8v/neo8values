@@ -4756,7 +4756,7 @@ ideologies = [
         "stats": {
             "econ": -2,
             "dipl": 50,
-            "govt": 105,
+            "govt": 102,
             "scty": 50
         }
     },
