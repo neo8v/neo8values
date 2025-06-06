@@ -184,6 +184,24 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 70,
+            "govt": 20,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
             "govt": 0,
             "scty": 50
         }
@@ -213,6 +231,24 @@ ideologies = [
             "dipl": 50,
             "govt": 0,
             "scty": 70
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 0,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Марксизм-ленинизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 0,
+            "scty": 80
         }
     },
     {
