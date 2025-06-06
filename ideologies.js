@@ -4754,9 +4754,9 @@ ideologies = [
     {
         "name": "Авариционизм",
         "stats": {
-            "econ": -2,
+            "econ": -3,
             "dipl": 50,
-            "govt": 102,
+            "govt": 100,
             "scty": 50
         }
     },
@@ -4774,7 +4774,7 @@ ideologies = [
         "stats": {
             "econ": 5,
             "dipl": 50,
-            "govt": 95,
+            "govt": 100,
             "scty": 50
         }
     },
