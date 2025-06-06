@@ -1028,7 +1028,7 @@ ideologies = [
     {
         "name": "Анархо-коллективизм",
         "stats": {
-            "econ": 90,
+            "econ": 85,
             "dipl": 50,
             "govt": 100,
             "scty": 80
@@ -1919,7 +1919,7 @@ ideologies = [
     {
         "name": "Социальный анархизм",
         "stats": {
-            "econ": 80,
+            "econ": 77,
             "dipl": 50,
             "govt": 100,
             "scty": 80
