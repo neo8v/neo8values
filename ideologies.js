@@ -2567,7 +2567,7 @@ ideologies = [
     {
         "name": "Фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 50
@@ -2576,7 +2576,7 @@ ideologies = [
     {
         "name": "Фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 20
@@ -2585,10 +2585,10 @@ ideologies = [
     {
         "name": "Клерикальный фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -2612,7 +2612,7 @@ ideologies = [
     {
         "name": "Прогрессивный фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 20,
             "scty": 80
@@ -2621,7 +2621,7 @@ ideologies = [
     {
         "name": "Прогрессивный фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 20,
             "scty": 100
@@ -2630,7 +2630,7 @@ ideologies = [
     {
         "name": "Прогрессивный фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 80
@@ -2639,7 +2639,7 @@ ideologies = [
     {
         "name": "Прогрессивный фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 100
@@ -2648,10 +2648,10 @@ ideologies = [
     {
         "name": "Футуризм",
         "stats": {
-            "econ": 75,
+            "econ": 73,
             "dipl": 0,
             "govt": 0,
-            "scty": 80
+            "scty": 100
         }
     },
     {
