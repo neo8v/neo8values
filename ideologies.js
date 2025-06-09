@@ -3069,6 +3069,24 @@ ideologies = [
         }
     },
     {
+        "name": "Авторитарный глобализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 80,
+            "govt": 20,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Ультраглобализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 90,
+            "govt": 20,
+            "scty": 100
+        }
+    },
+    {
         "name": "Альтерглобализм",
         "stats": {
             "econ": 70,
@@ -4419,6 +4437,24 @@ ideologies = [
         }
     },
     {
+        "name": "Laissez-faire капитализм",
+        "stats": {
+            "econ": 5,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Laissez-faire капитализм",
+        "stats": {
+            "econ": 5,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 50
+        }
+    },
+    {
         "name": "Социальный капитализм",
         "stats": {
             "econ": 40,
@@ -4745,10 +4781,19 @@ ideologies = [
     {
         "name": "Социал-дарвинизм",
         "stats": {
-            "econ": -5,
+            "econ": -7,
             "dipl": 50,
             "govt": 50,
-            "scty": 40
+            "scty": 50
+        }
+    },
+    {
+        "name": "Социал-дарвинизм",
+        "stats": {
+            "econ": -7,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 50
         }
     },
     {
