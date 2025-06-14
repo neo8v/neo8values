@@ -101,7 +101,7 @@ questions = [
     {
         "question": "Деньги должны быть упразднены.",
         "effect": {
-            "econ": 15,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -110,7 +110,7 @@ questions = [
     {
         "question": "От каждого по способностям, каждому по потребностям.",
         "effect": {
-            "econ": 15,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -128,7 +128,7 @@ questions = [
     {
         "question": "Коммунизм - утопия, которая никогда не будет работать на практике.",
         "effect": {
-            "econ": -15,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
             "scty": -10
@@ -425,7 +425,7 @@ questions = [
     {
         "question": "Само понятие собственности аморально.",
         "effect": {
-            "econ": 15,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -660,7 +660,7 @@ questions = [
         "question": "Мы в первую очередь граждане Земли.",
         "effect": {
             "econ": 0,
-            "dipl": 15,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -1120,7 +1120,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 15,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -1841,7 +1841,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 15
+            "scty": 10
         }
     }
 ];
