@@ -126,6 +126,24 @@ ideologies = [
         }
     },
     {
+        "name": "Неомарксизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Неомарксизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 20
+        }
+    },
+    {
         "name": "Большевизм",
         "stats": {
             "econ": 100,
